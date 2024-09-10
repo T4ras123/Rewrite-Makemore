@@ -8,4 +8,4 @@ Already implemented:
 
 - **Linear neural network model** with the same loss and result as a bigram, as the underlying processes are the same, but in the NN probabilities are learnt not counted
 
-- **MLP** - multi-level preceptron with 26 x 20 embeding space
+- **MLP** - multi-level preceptron with 27 x 4 embeding space
