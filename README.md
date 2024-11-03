@@ -21,16 +21,16 @@ This repository contains my implementation of the [makemore](https://github.com/
 
 ## Notebooks
 
-- [Bigram.ipynb](Bigram.ipynb): Implementation and experimentation with the bigram model.
-- [Linear-NN.ipynb](Linear-NN.ipynb): Implementation of the linear neural network model.
-- [MLP_manual_backprop.ipynb](MLP_manual_backprop.ipynb): Manual backpropagation implementation for the MLP.
-- [MLP.ipynb](MLP.ipynb): Standard implementation of the MLP.
-- [understand-statistics-in-BatchNorm.ipynb](understand-statistics-in-BatchNorm.ipynb): Understanding the statistics involved in Batch Normalization.
-- [WaveNet-for-language-processing.ipynb](WaveNet-for-language-processing.ipynb): Implementation of a WaveNet model for language processing.
+- [Bigram.ipynb](src/Bigram.ipynb): Implementation and experimentation with the bigram model.
+- [Linear-NN.ipynb](src/Linear-NN.ipynb): Implementation of the linear neural network model.
+- [MLP_manual_backprop.ipynb](src/MLP_manual_backprop.ipynb): Manual backpropagation implementation for the MLP.
+- [MLP.ipynb](src/MLP.ipynb): Standard implementation of the MLP.
+- [understand-statistics-in-BatchNorm.ipynb](src/understand-statistics-in-BatchNorm.ipynb): Understanding the statistics involved in Batch Normalization.
+- [WaveNet-for-language-processing.ipynb](src/WaveNet-for-language-processing.ipynb): Implementation of a WaveNet model for language processing.
 
 ## Data
 
-- [names.txt](names.txt): Dataset used for training and evaluation.
+- [names.txt](src/names.txt): Dataset used for training and evaluation.
 
 ## Getting Started
 
